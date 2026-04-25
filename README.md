@@ -1,15 +1,15 @@
 <div align="center">
-<img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2e4222,100:000000&text=Elena%20Askerova&fontColor=687368&fontSize=65&animation=twinkling&descAlignY=75&descSize=23&desc=Python%20Developer%20|%20SQL%20&%20Databases%20|%20Cybersecurity%20|%20AI%20Researcher&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2e4222,100:000000&text=Elena%20Askerova&fontColor=687368&fontSize=65&animation=twinkling&descAlignY=75&desc=Computer%20Science%20Student%20|%20Python%20%26%20SQL%20|%20Cybersecurity%20|%20AI%20Researcher&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2e4222&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;Secure+Development+%7C+Automation+Mindset;Linux+%7C+Bash+%7C+Python+%7C+C%2B%2B;Building+Clean+%26+Professional+Security-Focused+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2e4222&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Python+%7C+SQL+%7C+Databases;Cybersecurity+%7C+AI+Research;Linux+%7C+Bash+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-2e4222?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-2e4222?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MODE-DEEP%20GREEN-2e4222?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/MODE-STUDENT%20LIFE-2e4222?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-SECURITY%20%26%20AUTOMATION-2e4222?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20AI-2e4222?style=for-the-badge&labelColor=001a12"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/ElenaAskerova?label=Followers&style=flat-square&color=2e4222&labelColor=001a12" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-2e4222?style=flat-square&labelColor=001a12" alt="Collaborate"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-2e4222?style=flat-square&labelColor=001a12" alt="Collaborate"/>
 
 </div>
 
@@ -33,7 +33,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,linux,bash,git,github,postman,vscode,powershell" />
+<!-- PER LINE = 5 -->
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,html,css,linux,bash,powershell,git,github,postman,vscode&perline=5" />
 
 <br/><br/>
 
@@ -42,6 +43,10 @@
 <img src="https://img.shields.io/badge/MySQL-Database-2e4222?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-Development-2e4222?style=for-the-badge&labelColor=001a12"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Basics-2e4222?style=for-the-badge&labelColor=001a12"/>
 
 <br/>
 
@@ -78,7 +83,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ElenaAskerova&theme=radical&hide_border=true&background=0b0f0c&ring=2e4222&fire=2e4222&currStreakLabel=2e4222" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ElenaAskerova&theme=radical&hide_border=true&background=0b0f0c&ring=2e4222&fire=2e4222&currStreakLabel=2e4222&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/>
 
@@ -108,3 +113,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e4222,100:000000&height=120&section=footer" width="100%"/>
+
