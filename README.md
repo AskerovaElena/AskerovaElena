@@ -5,19 +5,19 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MODE-STUDENT%20LIFE-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/MODE-STUDENT%20LIFE-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20AI-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20AI-120129?style=for-the-badge&labelColor=001a12"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ElenaAskerova&label=Profile+Views&color=302b63&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/ElenaAskerova?label=Followers&style=flat-square&color=302b63&labelColor=001a12" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/ElenaAskerova?label=Followers&style=flat-square&color=120129&labelColor=001a12" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Internships-302b63?style=flat-square&labelColor=001a12" alt="Collaborate"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-120129?style=flat-square&labelColor=001a12" alt="Collaborate"/>
 
 </div>
 
@@ -37,33 +37,33 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-Programming-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/Python-Programming-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MySQL-Database-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/MySQL-Database-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-Development-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Development-120129?style=for-the-badge&labelColor=001a12"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Basics-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Basics-120129?style=for-the-badge&labelColor=001a12"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Linux-System-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/Linux-System-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Bash-Scripting-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/Bash-Scripting-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/PowerShell-Automation-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/PowerShell-Automation-120129?style=for-the-badge&labelColor=001a12"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-Version%20Control-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GitHub-Projects-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Postman-API%20Testing-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-120129?style=for-the-badge&labelColor=001a12"/>
 &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-Editor-302b63?style=for-the-badge&labelColor=001a12"/>
+<img src="https://img.shields.io/badge/VS%20Code-Editor-120129?style=for-the-badge&labelColor=001a12"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 </a>
 &nbsp;
 <a href="https://www.kaggle.com/ielenai" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-302b63?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=001a12"/>
+  <img src="https://img.shields.io/badge/Kaggle-120129?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=001a12"/>
 </a>
 
 </div>
