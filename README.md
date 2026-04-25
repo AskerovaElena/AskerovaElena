@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:2e4222,100:000000&text=Elena%20Askerova&fontColor=687368&fontSize=65&animation=twinkling&descAlignY=65&descSize=23&desc=Python%20Developer%20|%20SQL%20&%20Databases%20|%20Cybersecurity%20|%20AI%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2e4222,100:000000&text=Elena%20Askerova&fontColor=687368&fontSize=65&animation=twinkling&descAlignY=75&descSize=23&desc=Python%20Developer%20|%20SQL%20&%20Databases%20|%20Cybersecurity%20|%20AI%20Researcher&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2e4222&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;Secure+Development+%7C+Automation+Mindset;Linux+%7C+Bash+%7C+Python+%7C+C%2B%2B;Building+Clean+%26+Professional+Security-Focused+Projects" alt="Typing SVG" />
 
