@@ -1,6 +1,7 @@
 <div align="center">
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2e4222,100:000000&text=Elena%20Askerova&fontColor=687368&fontSize=65&animation=twinkling" width="100%"/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2e4222&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Python+%7C+SQL+%7C+Databases;Cybersecurity+%7C+AI+Research;Linux+%7C+Bash+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
 
 <br/><br/>
@@ -33,6 +34,7 @@
 
 <div align="center">
 
+<!-- PER LINE = 5 -->
 <img src="https://skillicons.dev/icons?i=python,mysql,cpp,html,css,linux,bash,powershell,git,github,postman,vscode&perline=5" />
 
 <br/><br/>
@@ -82,7 +84,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ElenaAskerova&theme=radical&hide_border=true&background=0b0f0c&ring=2e4222&fire=2e4222&currStreakLabel=2e4222&hide_past_streak=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ElenaAskerova&theme=radical&hide_border=true&background=0b0f0c&ring=2e4222&fire=2e4222&currStreakLabel=2e4222&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/>
 
@@ -92,7 +94,7 @@
 
 <br/>
 
-<img src="https://capsule-render.app/api?type=rect&color=2e4222&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e4222&height=2&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=9999&color=2e4222&center=true&vCenter=true&width=400&lines=Connect+With+Me" alt="Connect"/>
